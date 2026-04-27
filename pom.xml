@@ -37,7 +37,7 @@
 						<muleVersion>4.3.0</muleVersion>
 						<username>akhil555</username>
 						<password>Akhilgubbala@555</password>
-						<applicationName>dev-hello-mule-api</applicationName>
+						<applicationName>hello-mule-api</applicationName>
 						<environment>Sandbox</environment>
 						<region>us-east-1</region>
 						<workers>1</workers>
